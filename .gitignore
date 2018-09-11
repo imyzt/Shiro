@@ -4,6 +4,9 @@ pom.xml.releaseBackup
 pom.xml.versionsBackup
 pom.xml.next
 **/*.iml
+.idea/*.xml
+.idea/*/*
+
 release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
