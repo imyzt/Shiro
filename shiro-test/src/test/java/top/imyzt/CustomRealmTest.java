@@ -47,7 +47,7 @@ public class CustomRealmTest {
 
     @Test
     public void md5(){
-        Md5Hash md5Hash = new Md5Hash("1", "yyy");
+        Md5Hash md5Hash = new Md5Hash("123", "yyy");
         System.out.println(md5Hash.toString());
     }
 }
