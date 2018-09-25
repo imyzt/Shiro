@@ -8,9 +8,7 @@ import top.imyzt.shiro.vo.User;
 
 import javax.annotation.Resource;
 import java.util.*;
-import java.util.stream.Collectors;
 
-import static java.util.stream.Collectors.toList;
 
 @Component
 public class UserDaoImpl implements UserDao {
